@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TANER</Machine>
+    <WindowsUser>Taner</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>692dfb22-8bda-4405-9533-cb853e9b3f4d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\10.Sınıf Kitap Çözümleri.WindowsPhone.exe">
+      <PackagePath>10.Sınıf Kitap Çözümleri.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\10.Sınıf Kitap Çözümleri.WindowsPhone.xr.xml">
+      <PackagePath>10.Sınıf Kitap Çözümleri.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

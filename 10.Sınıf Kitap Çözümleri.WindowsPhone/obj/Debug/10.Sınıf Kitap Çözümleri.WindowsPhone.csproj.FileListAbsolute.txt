@@ -1,0 +1,32 @@
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\10.Sınıf Kitap Çözümleri.WindowsPhone.xr.xml
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\10.Sınıf Kitap Çözümleri.WindowsPhone.exe
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\10.Sınıf Kitap Çözümleri.WindowsPhone.pdb
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\bin\Debug\10.Sınıf Kitap Çözümleri.WindowsPhone.build.appxrecipe
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\10.Sınıf Kitap Çözümleri.WindowsPhone.exe
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\10.Sınıf Kitap Çözümleri.WindowsPhone.pdb
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Taner\Desktop\10.Sınıf Kitap Çözümleri - Kopya\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.WindowsPhone\obj\Debug\ProjectArchitectures.txt

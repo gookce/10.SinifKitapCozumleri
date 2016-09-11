@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASUS</Machine>
+    <WindowsUser>gökçe</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>31329GkeDemir.89866015BC02</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\bin\Debug\10.Sınıf Kitap Çözümleri.exe">
+      <PackagePath>10.Sınıf Kitap Çözümleri.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 106-118.txt">
+      <PackagePath>Assets\dil 106-118.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 119-131.txt">
+      <PackagePath>Assets\dil 119-131.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 139-145.txt">
+      <PackagePath>Assets\dil 139-145.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 146-151.txt">
+      <PackagePath>Assets\dil 146-151.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 152-156.txt">
+      <PackagePath>Assets\dil 152-156.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 157-164.txt">
+      <PackagePath>Assets\dil 157-164.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 16-23.txt">
+      <PackagePath>Assets\dil 16-23.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 165-176.txt">
+      <PackagePath>Assets\dil 165-176.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 177-185.txt">
+      <PackagePath>Assets\dil 177-185.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 186-195.txt">
+      <PackagePath>Assets\dil 186-195.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 196-199.txt">
+      <PackagePath>Assets\dil 196-199.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 24-30.txt">
+      <PackagePath>Assets\dil 24-30.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 32-37.txt">
+      <PackagePath>Assets\dil 32-37.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 38-41.txt">
+      <PackagePath>Assets\dil 38-41.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 42-45.txt">
+      <PackagePath>Assets\dil 42-45.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 46-49.txt">
+      <PackagePath>Assets\dil 46-49.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 50-55.txt">
+      <PackagePath>Assets\dil 50-55.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 56-59.txt">
+      <PackagePath>Assets\dil 56-59.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 60-65.txt">
+      <PackagePath>Assets\dil 60-65.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 66-68.txt">
+      <PackagePath>Assets\dil 66-68.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 69-71.txt">
+      <PackagePath>Assets\dil 69-71.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 72-87.txt">
+      <PackagePath>Assets\dil 72-87.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 88-105.txt">
+      <PackagePath>Assets\dil 88-105.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\dil 9-15.txt">
+      <PackagePath>Assets\dil 9-15.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 107-108.txt">
+      <PackagePath>Assets\edb 107-108.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 109-114.txt">
+      <PackagePath>Assets\edb 109-114.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 115-119.txt">
+      <PackagePath>Assets\edb 115-119.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 12-18.txt">
+      <PackagePath>Assets\edb 12-18.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 120-127.txt">
+      <PackagePath>Assets\edb 120-127.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 128-132.txt">
+      <PackagePath>Assets\edb 128-132.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 133-135.txt">
+      <PackagePath>Assets\edb 133-135.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 136-140.txt">
+      <PackagePath>Assets\edb 136-140.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 141-145.txt">
+      <PackagePath>Assets\edb 141-145.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 146-150.txt">
+      <PackagePath>Assets\edb 146-150.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 19-27.txt">
+      <PackagePath>Assets\edb 19-27.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 31-37.txt">
+      <PackagePath>Assets\edb 31-37.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 38-43.txt">
+      <PackagePath>Assets\edb 38-43.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 44-54.txt">
+      <PackagePath>Assets\edb 44-54.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 55-58.txt">
+      <PackagePath>Assets\edb 55-58.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 59-60.txt">
+      <PackagePath>Assets\edb 59-60.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 63-66.txt">
+      <PackagePath>Assets\edb 63-66.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 67-73.txt">
+      <PackagePath>Assets\edb 67-73.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 74-76.txt">
+      <PackagePath>Assets\edb 74-76.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 77-78.txt">
+      <PackagePath>Assets\edb 77-78.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 79-85.txt">
+      <PackagePath>Assets\edb 79-85.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 86-91.txt">
+      <PackagePath>Assets\edb 86-91.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 92-95.txt">
+      <PackagePath>Assets\edb 92-95.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\edb 96-106.txt">
+      <PackagePath>Assets\edb 96-106.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\hata.txt">
+      <PackagePath>Assets\hata.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\logo.scale-100.png">
+      <PackagePath>Assets\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\pano.png">
+      <PackagePath>Assets\pano.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\bin\Debug\DersSayfası.xbf">
+      <PackagePath>DersSayfası.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\bin\Debug\10.Sınıf Kitap Çözümleri.xr.xml">
+      <PackagePath>10.Sınıf Kitap Çözümleri.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\10.Sınıf Kitap Çözümleri-Son\10.Sınıf Kitap Çözümleri\10.Sınıf Kitap Çözümleri.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
